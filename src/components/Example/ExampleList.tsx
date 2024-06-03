@@ -6,6 +6,7 @@ const DEFAULT_EXAMPLES: string[] = [
     "What was the price of the product with sku `FR-R92B-58`?",
     "What is the SKU of HL Road Frame - Black?",
     "What is HL Road Frame?"
+    "My name is Baijnath Singh and I am participating in the Microsoft Developer AI Learning Hackathon."
 ];
 
 const GPT4V_EXAMPLES: string[] = [
